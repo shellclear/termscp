@@ -60,6 +60,14 @@
       src="/assets/images/flags/cn.png"
       alt="简体中文"
   /></a>
+  &nbsp;
+  <a
+    href="/docs/pt-BR/README.md"
+    ><img
+      height="20"
+      src="/assets/images/flags/br.png"
+      alt="Portugues do Brasil"
+  /></a>
 </p>
 
 <p align="center">Developed by <a href="https://veeso.dev/" target="_blank">@veeso</a></p>
